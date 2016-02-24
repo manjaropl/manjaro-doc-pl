@@ -16,4 +16,6 @@
     * [Instalacja oprogramowania - pacman](desktop/pacman.md)
     * [Instalacja oprogramowania - GUI](desktop/installGUI.md)
     * [AUR i yaourt](desktop/yaourt.md)
+* [Jak uzyskać pomoc?](help.md)
+* [Przydatne linki](links.md)
 * [Indeks](GLOSSARY.md)
