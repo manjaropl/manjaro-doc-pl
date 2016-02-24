@@ -1,0 +1,1 @@
+# Menedżer Ustawień Manjaro

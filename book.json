@@ -1,0 +1,11 @@
+{
+    "title": "Przewodnik użytkownika Manjaro",
+    "gitbook": "2.x.x",
+    "plugins": [],
+    "links": {
+        "sidebar": {
+            "Biblioteka ABC Linuksa": "http://abclinuksa.pl"
+        }
+    },
+    "pluginsConfig": {}
+}

@@ -1,0 +1,1 @@
+# Instalacja oprogramowania - GUI

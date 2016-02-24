@@ -1,0 +1,1 @@
+# Wybór najszybszego mirroru
