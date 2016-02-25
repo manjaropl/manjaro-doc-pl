@@ -1,8 +1,7 @@
 # Spis treści
 
 * [O przewodniku](README.md)
-* [Wprowadzenie](intro/README.md)
-    * [Co to jest Manjaro?](intro/manjaro.md)
+* [Co to jest Manjaro?](intro/manjaro.md)
     * [Edycje](intro/edycje.md)
 * [Instalacja Manjaro](install/README.md)
     * [Pobieranie ISO](install/pobieranie.md)
