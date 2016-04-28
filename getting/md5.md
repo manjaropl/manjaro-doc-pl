@@ -1,6 +1,6 @@
 # Sprawdzenie sum kontrolnych MD5
 
-Zanim wypalimy pobrany obraz dysku (lub użyjemy go jako wirtualnego dysku w VirtualoBox) należy sprawdzić czy został on poprawnie pobrany. Naprawdę zalecamy sprawdzić integralność obrazu przed jego użyciem, ponieważ skutki użycia uszkodzonego dysku mogą być fatalne. W najlepszym przypadku instalacja nie powiedzie się. Może też się zdarzyć, że uszkodzony obraz iso spowoduje, że zainstalowany system będzie uszkodzony.
+Zanim wypalimy pobrany obraz dysku (lub użyjemy go jako wirtualnego dysku w VirtualBox) należy sprawdzić czy został on poprawnie pobrany. Naprawdę zalecamy sprawdzić integralność obrazu przed jego użyciem, ponieważ skutki użycia uszkodzonego dysku mogą być fatalne. W najlepszym przypadku instalacja nie powiedzie się. Może też się zdarzyć, że uszkodzony obraz iso spowoduje, że zainstalowany system będzie uszkodzony.
 
 Aby zweryfikować integralność pobranego obrazu musimy pobrać pliki zawierające jego sumy kontrolne. Są one dostępne na serwerze z którego pobieramy obrazy iso. Przykładowo plik **manjaro-xfce-15.12-x86_64-sha1sum.txt** zawiera sumy kontrolną obrazu iso Manjaro XFCE 15.12. Jego zawartość powinna być podobna do listingu:
 
