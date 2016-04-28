@@ -1,6 +1,6 @@
 # Nagrywanie ISO na DVD/USB
 
-Obraz iso to specyficzny plik, który reprezentuje bit po bicie pliki oraz katalogi, które mają się znaleźć na płycie instalacyjnej lub urządzeniu USB. Dlatego też nie można po prostu skopiować obraz iso na płytę CD lub pendriva. Należy użyć programu nagrywającego lub narzędzia zapisującego obraz dysku na USB, za którego pomocą surowe dane z obrazu iso zostaną przekształcone z katalogi i pliki na instalacyjnej płycie CD/DVD lub instalacyjnym dysku USB.
+Obraz iso to specyficzny plik, który reprezentuje bit po bicie pliki oraz katalogi, które mają się znaleźć na płycie instalacyjnej lub urządzeniu USB. Dlatego też nie można po prostu skopiować obraz iso na płytę CD lub pendriva. Należy użyć programu nagrywającego lub narzędzia zapisującego obraz dysku na USB, za którego pomocą surowe dane z obrazu iso zostaną przekształcone w katalogi i pliki na instalacyjnej płycie CD/DVD lub instalacyjnym dysku USB.
 
 *Jeśli chcesz przetestować Manjaro za pomocą VirtualBox, nie ma potrzeby wypalania obrazu iso na płytę lub USB. VirtualBox jest w stanie zainstalować system bezpośrednio z pliku iso.*
 
