@@ -18,7 +18,6 @@ Wydania oficjalne możemy pobrać z [oficjalnej strony pobierania](https://sourc
 ## Edycje przygotowane przez społeczność (Community Editions)
 Oprócz edycji oficjalnych, społeczność Manjaro przygotowuje i udostępnia obrazy ISO z następującymi środowiskami graficznymi:
 
-
 * Openbox
 * Cinnamon
 * Deepin
@@ -30,6 +29,8 @@ Oprócz edycji oficjalnych, społeczność Manjaro przygotowuje i udostępnia ob
 * JWM
 * i3
 * Budgie
+
+Trzeba zaznaczyć, że edycje społecznościowe w żaden sposób nie są gorsze od wydań oficjalnych. Różnica polega tylko na tym, że obrazy .ISO zawierające środowisko graficzne oraz domyślne oprogramowanie są tworzone nie przez deweloperów systemu, a przez użytkowników społeczności. 
 
 Edycja społecznościowe możemy pobrać ze [strony pobierania](https://sourceforge.net/projects/manjarolinux/files/community/).
 
