@@ -1,1 +1,0 @@
-# Instalacja Manjaro
