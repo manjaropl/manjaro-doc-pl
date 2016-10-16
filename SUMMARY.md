@@ -8,7 +8,7 @@
     * [Sprawdzenie sum kontrolnych MD5](getting/md5.md)
     * [Nagrywanie ISO na DVD/USB](getting/nagrywanie.md)
 * [Instalacja Manjaro](install/README.md)
-    * [Uruchamianie LiveDVD](install/live.md)
+    * [Uruchamianie wersji Live](install/live.md)
     * [System z BIOS - za pomocą asystenta](install/installBIOSassisted.md)
     * [System z BIOS - instalacja manualna](install/installBIOSmanual.md)
     * [System z UEFI - za pomocą asystenta](install/installUEFIasisted.md)
