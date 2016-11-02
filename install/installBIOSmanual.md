@@ -1,1 +1,1 @@
-#Instalacja manualna na systemie z BIOS
+# Manualna instalacja w systemach BIOS (legacy) za pomocą instalatora Calamares
