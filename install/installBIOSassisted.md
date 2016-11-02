@@ -19,7 +19,7 @@ Wybierz swoją lokację
 
 Wybierz ustawienia klawiatury
 
-4. Następnie będziesz mogli wybrać ustawienia klawiatury. Wybierz swój język z listy po lewej stronie a potem podkategorię na liście po prawej stronie. Dzięki temu litery na klawiaturze będą odpowiadać literom na ekranie. Po ustawieniu języka polskiego i wybrania "Domyślnie" będziesz miał do dyspozycji wszystkie polskie znaki i standardowy polski układ klawiszy. Możesz to przetestować w polu na samym dole wpisując kombinacje klawiszy dla polskich znaków (alt+a, alt+s itd.).
+4. Następnie będziesz mógł wybrać ustawienia klawiatury. Wybierz swój język z listy po lewej stronie a potem podkategorię na liście po prawej stronie. Dzięki temu litery na klawiaturze będą odpowiadać literom na ekranie. Po ustawieniu języka polskiego i wybrania "Domyślnie" będziesz miał do dyspozycji wszystkie polskie znaki i standardowy polski układ klawiszy. Możesz to przetestować w polu na samym dole wpisując kombinacje klawiszy dla polskich znaków (alt+a, alt+s itd.).
 
 5. Możesz też wybrać model klawiatury z menu. Lista jest dość długa, więc twoja klawiatura najprawdopodobniej będzie na liście. W większości wypadków wystarcza jednak zostawienie domyślnej wartości.
 
