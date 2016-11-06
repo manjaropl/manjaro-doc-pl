@@ -9,6 +9,7 @@
     * [Nagrywanie ISO na DVD/USB](getting/nagrywanie.md)
 * [Instalacja Manjaro](install/README.md)
     * [Uruchamianie wersji Live](install/live.md)
+    * [Przydatne pojęcia] (install/definitions.md)
     * [Automatyczna instalacja w systemach BIOS (legacy) za pomocą instalatora Calamares](install/installBIOSassisted.md)
     * [Manualna instalacja w systemach BIOS (legacy) za pomocą instalatora Calamares](install/installBIOSmanual.md)
     * [Automatyczna instalacja w systemach UEFI za pomocą instalatora Calamares](install/installUEFIasisted.md)
