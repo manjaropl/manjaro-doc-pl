@@ -1,5 +1,5 @@
 # Instalacja oprogramowania - pacman
-Menedżerem pakietów w Manjaro jest **pacman** - nazwa wywodzi się od **pac** kage **man** ager. Pacman jest narzędziem konsolowym, stworzonym przez Judda twórcę dystrybucji Arch Linux i rozwijanym przez deweloperów Archa. Za jego pomocą możesz instalować, aktualizować, konfigurować, przeszukiwać lub usuwać pakiety. Poniżej kilka przykładów użycia pacmana.
+Menedżerem pakietów w Manjaro jest **pacman** - nazwa wywodzi się od **pac**kage **man**ager. Pacman jest narzędziem konsolowym, stworzonym przez Judda twórcę dystrybucji Arch Linux i rozwijanym przez deweloperów Archa. Za jego pomocą możesz instalować, aktualizować, konfigurować, przeszukiwać lub usuwać pakiety. Poniżej kilka przykładów użycia pacmana.
 ### Aktualizacja systemu
 W celu aktualizacji systemu, wydaj następującą komendę:
 ```sudo pacman -Syu```
