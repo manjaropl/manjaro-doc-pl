@@ -4,7 +4,7 @@ Jeśli się zastanawiasz *co te słowa znaczą, o co tu chodzi?*, ten rozdział 
 
 Instalacja nowego systemu operacyjnego wymaga (od instalatora) wykonania zadań zarządzania dyskiem, tzw. partycjonowania, żeby np. zdobyć wolną przestrzeń dla Manjaro. Najprawdopodobniej spotkasz się z poniższymi terminami.
 
-**Partycja**
+**Partycja** 
 
  Partycja to część dysku twardego, która przechowuje dane (pliki), używając pewnego formatu zwanego *systemem plików*. Partycja może być przeznaczona dla systemu operacyjnego lub do przechowywania plików. Dysk twardy może być podzielony na wiele partycji, a każda z nich będzie działać jako osobny byt z własnym systemem plików. Wszystkie dyski, czy to twarde lub SSD, jak np. pamięć USB, zawierają jedną lub więcej partycji. Przykładem partycji jest dysk C używany przez Microsoft Windows.
 
