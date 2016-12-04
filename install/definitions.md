@@ -24,7 +24,7 @@ Katalog w Linuksie (ang. directory) to mniej więcej to samo co folder w Windows
 
 Punkt montowania reprezentuje katalog, z którego jest dostępna dana partycja. Tak jak klikanie na C w menedżerze plików Windows dawało dostęp do zawartości partycji, klikanie na dany katalog w Linuksie daje dostęp do zamontowanej partycji.
 
-Parę programów jest używanych do bootowania (startu) systemu na twoim komputerze: od uruchomienia sprzętu (ang. hardware) do logowania się na systemie operacyjnym.
+Kilka programów jest używanych do bootowania (startu) systemu na twoim komputerze: od uruchomienia sprzętu (ang. hardware) do logowania się na systemie operacyjnym.
 
 **BIOS** (ang. Basic Input/Output System) to oprogramowanie firmowe używane podczas bootowania (startu systemu) do inicjalizacji sprzętu (ang. hardware). Oferuje różne ustawienia w menu po naciśnięciu specyficznego klawisza podczas bootowania. Systemy używające BIOS mają najczęściej tablicę partycji MBR.
 
