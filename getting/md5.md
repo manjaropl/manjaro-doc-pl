@@ -44,6 +44,6 @@ System Windows domyślnie nie udostępnia narzędzi do sprawdzania sum kontrolny
 
 Jednym z takich programów posiadających pozytywne recenzje jest **Raymond's MD5 & SHA Checksum Utility**. Programik można pobrać ze strony Download.com http://download.cnet.com/MD5-SHA-Checksum-Utility/3000-2092_4-10911445.html
 
-![](../images/win_checksum.png)
+![Dupa](../images/win_checksum.png)
 
 Weryfikacja sumy kontrolnej za pomocą tego programu jest bardzo łatwa. Klikamy **Browse**, odnajdujemy pobrany obraz iso i klikamy **Open**. Program obliczy sumy kontrolne dla naszego obrazu iso. Aby sprawdzić czy sumy kontrolne się zgadzają otwieramy plik **manjaro-0.8.12-sha1sum.txt** w Notatniku, kopiujemy z niego sume kontrolną dla pliku iso ktory pobraliśmy i wklejamy do pola **Hash**. Klikamy **Verify**. Jeśli sumy się zgadzają program poinformuje nas o tym komunikatem: **Hash matched**.

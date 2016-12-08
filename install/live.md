@@ -13,7 +13,7 @@ Jest możliwe ustawienie preferowanego języka i klawiatury, co oznacza, że Man
 **Ustawienie języka i klawiatury**
 
 Ustaw język naciskając F2, a następnie używając strzałek na klawiaturze przesuń zaznaczenie na polski, jak na przykładzie obok. Naciśnij Enter, żeby potwierdzić wybór i powrócić do menu bootowania.
-Wybierając dany język, zostanie też ustawiony domyślny układ klawiatury dla niego, w twoim wypadku będzie to QUWERTY z polskimi znakami. Jeśli masz inną klawiaturę lub woliasz pisać w innym języku, naciśnij F2 ponownie i strzałkami wybierz Klawiaturę (na końcu listy) i po znalezieniu odpowiedniej opcji naciśnij Enter, by potwierdzić i powrócić do menu bootowania.
+Wybierając dany język, zostanie też ustawiony domyślny układ klawiatury dla niego, w twoim wypadku będzie to QUWERTY z polskimi znakami. Jeśli masz inną klawiaturę lub wolisz pisać w innym języku, naciśnij F2 ponownie i strzałkami wybierz Klawiaturę (na końcu listy) i po znalezieniu odpowiedniej opcji naciśnij Enter, by potwierdzić i powrócić do menu bootowania.
 
 **Wybór sterowników**
 
@@ -24,7 +24,7 @@ Otwarte sterowniki (ang. **free** lub *open source*), tak jak samo Manjaro, są 
 Zamknięte lub inaczej własnościowe sterowniki (ang. **non-free** lub *proprietary*) są napisane i uaktualniane tylko przez producentów sprzętu. To generalnie najlepszy wybór dla nowszych komputerów z dedykowanymi kartami Nvidia. W tej chwili zamknięte sterowniki są polecane dla kart Nvidia nowszych niż seria 8000. Dla starszych kart Nvidii otwarto-źródłowe sterowniki mogą lepiej działać.
 
 Aby uruchomić i/lub zainstalować Manjaro z otwartymi sterownikami, wybierz **Start Manjaro Linux**.
-Aby uruchomić i/lub zainstalować Manjaro z zamkniętymi sterownikami, wybierz **Start (none-free drivers)**.
+Aby uruchomić i/lub zainstalować Manjaro z zamkniętymi sterownikami, wybierz **Start (non-free drivers)**.
 
 **Witaj w Manjaro**
 

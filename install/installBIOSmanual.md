@@ -1,8 +1,8 @@
-﻿# Manualna instalacja w systemach BIOS (legacy) za pomocą instalatora Calamares
+# Manualna instalacja w systemach BIOS (legacy) za pomocą instalatora Calamares
 
 Ostatnia opcja daje ci najwięcej kontroli. Będziesz mógł dokładnie dopasować schemat partycji twojego dysku, używając wbudowanego menadżera partycjonowania.
 
-*Ustawienie wszystkiego w instlatorze Calamares*
+*Ustawienie wszystkiego w instalatorze Calamares*
 
 1: W przeciwieństwie do poprzednich scenariuszów, wybranie manualnego partycjonowania nie zmieni informacji wyświetlanej na pasku na dole okna. Naciśnij **Dalej** żeby rozpocząć partycjonowanie.
 
@@ -16,7 +16,7 @@ Dla przypomnienia co to są partycje i tabele partycji, zajrzyj do rozdziału **
 
 4: Kliknięcie na **Edycja** otworzy następne okno z informacjami o partycji, jej wielkości, zawartości, systemem plików i punktem montowania oraz flagami, jeśli chcesz jej użyć dla instalacji Manjaro. Porcja partycji, która posiada dane jest pokazana po lewej stronie paska i jest wyróżniona lekkim pogrubieniem 3D.
 
-5: Kliknięcie i przeciąganie na krawędzie paska partycji umożliwia zmianę jej wielkości. Nie może ona być mniejsza niż wielkość wymagana do zachowania na niej danych. Klkiknięcie na **OK** zamknie okno i uaktualni diagram i listę partycji. **Zwróć uwagę, że na razie żadna zmiana nie jest wprowadzana i dopiero po zaakceptowaniu podsumowania instalator ją przeprowadzi.**
+5: Kliknięcie i przeciąganie na krawędzie paska partycji umożliwia zmianę jej wielkości. Nie może ona być mniejsza niż wielkość wymagana do zachowania na niej danych. Kliknięcie na **OK** zamknie okno i uaktualni diagram i listę partycji. **Zwróć uwagę, że na razie żadna zmiana nie jest wprowadzana i dopiero po zaakceptowaniu podsumowania instalator ją przeprowadzi.**
 
 *Tworzenie partycji*
 
@@ -34,7 +34,7 @@ W tym wypadku partycja swap została już stworzona. Będzie ona użyta jeśli k
 
 *Użycie GParted, żeby stworzyć, skasować i zmodyfikować partycje*
 
-GParted jest programem graficznym używanym do modyfikacji partycji na dyskach. To potężne narzędzie i ma przyjazny interfejs. GParted pozwala na tworzenie, kasowanie jak i zmiane atrybutów partycji jak rozmiar, miejsce na dysku, system plików. Program potrafi też tworzyć tabele partycji różnego typu, między innymi najczęściej używane typu MBR (msdos) i GPT. Dla odświeżenia informacji o partycjach i tabelach partycji, sprawdź rozdział **Przydatne definicje**.
+GParted jest programem graficznym używanym do modyfikacji partycji na dyskach. To potężne narzędzie i ma przyjazny interfejs. GParted pozwala na tworzenie, kasowanie jak i zmianę atrybutów partycji jak rozmiar, miejsce na dysku, system plików. Program potrafi też tworzyć tabele partycji różnego typu, między innymi najczęściej używane typu MBR (msdos) i GPT. Dla odświeżenia informacji o partycjach i tabelach partycji, sprawdź rozdział **Przydatne definicje**.
 W tej sekcji zademonstrujemy jak zredukować rozmiar istniejącej partycji i użyć wolnego miejsca, żeby stworzyć dwie nowe partycje, które potem będą użyte do instalacji Manharo!
 
 1: Zacznijmy od początku! Znajdziesz GParted w menu wersji Manjro live. Program może też być znaleziony w repozytoriach większości dystrybucji. Edycja Manjaro KDE domyślnie ma dostępny program **zarządzanie partycjami**, który spełnia podobne funkcje jak GParted jednak jego interfejs graficzny (GUI) może się nieco różnić.
