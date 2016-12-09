@@ -3,7 +3,9 @@
 
 Graficznym instalatorem w Manjaro jest Calamares. Za jego pomocą mamy możliwość wyboru trzech zautomatyzowanych opcji instalacji, które poniżej omówimy w szczegółach. Manualna instalacja jest przedstawiona w rozdziale **[Manualna instalacja w systemach BIOS za pomocą instalatora Calamares](./installBIOSmanual.md)**
 
-**Wyczyść cały dysk i pozwól instalatorowi Calamares ustawić partycje.**
+
+<a name="dysk></a>
+###Wyczyść cały dysk i pozwól instalatorowi Calamares ustawić partycje 
 
 Najprostszą wersją instalacji jest nadpisanie całego dysku i pozwolenie instalatorowi na utworzenie domyślnych partycji dla waszego nowego systemu operacyjnego. To odpowiednia metoda jeśli chcesz zacząć od początku, gdyż wszystkie informacje na dysku zostaną skasowane. Jeśli chcesz je zachować, możesz skopiować dane na dysk zewnętrzny i przywrócić po instalacji.
 
@@ -99,24 +101,38 @@ Opcja "Położenie programu rozruchowego" na samym dole strony umożliwia wybran
 
 Jeśli nadpisanie całego dysku ci jednak nie odpowiada, możecie wybrać inną opcję instalatora.
 
-**Instalacja obok istniejącego systemu operacyjnego**
+###Instalacja obok istniejącego systemu operacyjnego
 
 Inną dostępną opcją jest zmniejszenie istniejącej partycji, żeby zrobić miejsce na dysku na instalację Manjaro. To odpowiednia metoda jeśli chcesz mieć tzw. dual boot (możliwość bootowania dwóch systemów), ale nie chcesz przechodzić przez proces partycjonowania samemu. Ta część będzie automatycznie zrobiona przez instalator.
 
+![](../images/install13.png)
+
 1: Jeśli wybierzesz opcję instalacji Manjaro obok istniejącego systemu operacyjnego, na dole okna wyświetli się pasek przedstawiający obecny stan dysku, a poniżej pasek pokazujący stan po modyfikacjach. Na początek oba są identyczne.
+
+![](../images/install14.png)
 
 2: Po kliknięciu na pasek przedstawiający obecną sytuację, pasek poniżej się zmieni, by pokazać partycje podzieloną na pół.
 
+![](../images/install15.png)
+
 3: Kliknij lewym przyciskiem i przytrzymaj granicę między oboma partycjami by zmienić ilość miejsca zwolnionego dla nowego systemu. Zauważ, że nie możesz zmniejszyć istniejącej partycji bardziej niż jest to potrzebne do przechowywania danych na niej.
 
-4: Reszta procesu jest podobna do tego przedstawionego we wcześniejszej sekcji **Wyczyść cały dysk i pozwól instalatorowi Calamares ustawić partycje.**. Tak samo będziesz musiał podać dane użytkownika i przejrzysz podsuwanie twoich wyborów. To jest twoja ostatnia szansa na zmianę ustawień. Jak naciśniesz "Dalej" instalacja się rozpocznie.
+![](../images/install16.png)
 
-**Zastąpienie istniejącej partycji**
+4: Reszta procesu jest podobna do tego przedstawionego we wcześniejszej sekcji [Wyczyść cały dysk i pozwól instalatorowi Calamares ustawić partycje][1]. Tak samo będziesz musiał podać dane użytkownika i przejrzysz podsuwanie twoich wyborów. To jest twoja ostatnia szansa na zmianę ustawień. Jak naciśniesz "Dalej" instalacja się rozpocznie.
 
-Kolejną opcją jest wybranie istniejącej partycji i nadpisanie jej, żeby zainstalować Manjaro. Może być ona przydatna jeśli już masz dwa systemy (ang. dual boot) i chcesz wymienić jeden z nich, zamiast instalować trzeci. Możesz też przygotować wcześniej pustą partycję i wybrać ją teraz. Będzie to opisane w sekcji **Używanie GParted do tworzenia, kasowania i modyfikowania partycji.**
+###Zastąpienie istniejącej partycji
+
+Kolejną opcją jest wybranie istniejącej partycji i nadpisanie jej, żeby zainstalować Manjaro. Może być ona przydatna jeśli już masz dwa systemy (ang. dual boot) i chcesz wymienić jeden z nich, zamiast instalować trzeci. Możesz też przygotować wcześniej pustą partycję i wybrać ją teraz. Będzie to opisane w sekcji **[Używanie GParted do tworzenia, kasowania i modyfikowania partycji.](#)**
+
+![](../images/install17.png)
 
 1: Jeśli wybierzesz opcję instalacji Manjaro na istniejącej partycji, na dole okna wyświetli się pasek przedstawiający obecny stan dysku, a poniżej pasek pokazujący stan po modyfikacjach. Na początek oba są identyczne.
 
+![](../images/install18.png)
+
 2: Klikając na pasek, przedstawiający obecny stan, dolny zmieni się, by pokazać partycję nadpisaną przez Manjaro.
 
-3: Reszta procesu jest podobna do tego przedstawionego we wcześniejszej sekcji **Wyczyść cały dysk i pozwól instalatorowi Calamares ustawić partycje.**. Tak samo będziesz musiał podać dane użytkownika i przejrzysz podsuwanie twoich wyborów. To jest twoja ostatnia szansa na zmianę ustawień. Jak naciśniesz "Dalej" instalacja się rozpocznie.
+![](../images/install19.png)
+
+3: Reszta procesu jest podobna do tego przedstawionego we wcześniejszej sekcji **Wyczyść cały dysk i pozwól instalatorowi Calamares ustawić partycje**. Tak samo będziesz musiał podać dane użytkownika i przejrzysz podsuwanie twoich wyborów. To jest twoja ostatnia szansa na zmianę ustawień. Jak naciśniesz "Dalej" instalacja się rozpocznie.
