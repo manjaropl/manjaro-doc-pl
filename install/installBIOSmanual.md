@@ -1,4 +1,4 @@
-# Manualna instalacja w systemach BIOS (legacy) za pomocą instalatora Calamares
+# Manualna instalacja w systemach BIOS za pomocą instalatora Calamares
 
 Ostatnia opcja daje ci najwięcej kontroli. Będziesz mógł dokładnie dopasować schemat partycji twojego dysku, używając wbudowanego menadżera partycjonowania.
 
