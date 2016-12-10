@@ -1,1 +1,7 @@
-# Pierwsze kroki
+
+
+
+#Część III
+
+
+# Witaj w Manjaro
