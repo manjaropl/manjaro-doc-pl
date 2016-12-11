@@ -1,4 +1,4 @@
-# Manualna instalacja w systemach BIOS za pomocą instalatora Calamares
+﻿# Manualna instalacja w systemach BIOS za pomocą instalatora Calamares
 
 Ostatnia opcja daje ci najwięcej kontroli. Będziesz mógł dokładnie dopasować schemat partycji twojego dysku, używając wbudowanego menadżera partycjonowania.
 
@@ -12,7 +12,7 @@ Ostatnia opcja daje ci najwięcej kontroli. Będziesz mógł dokładnie dopasowa
 
 ![](../images/install21.png)
 
-2: Następny ekran wyświetla edytowany dysk oraz jego stan zarówno w formie paska jak i listy partycji. Obie te rzeczy przedstawiają to samo tylko w inny sposób. Przycisk **Nowa tabela partycji** umożliwia stworzenie nowej tabeli partycji, albo MBR albo GPT. To skasuje wszystkie dane i usunie wszystkie partycje na dysku. Możesz też zatrzymać obecną tabelę partycji i tylko edytować partycje na niej.
+2: Następny ekran wyświetla edytowany dysk oraz jego stan zarówno w formie paska jak i listy partycji. Obie te rzeczy przedstawiają to samo tylko w inny sposób. Przycisk **Nowa tablica partycji** umożliwia stworzenie nowej tablicy partycji, albo MBR albo GPT. To skasuje wszystkie dane i usunie wszystkie partycje na dysku. Możesz też zatrzymać obecną tabelę partycji i tylko edytować partycje na niej.
 
 Dla przypomnienia co to są partycje i tabele partycji, zajrzyj do rozdziału **Przydatne definicje**.
 
@@ -53,7 +53,7 @@ W tym wypadku partycja swap została już stworzona. Będzie ona użyta jeśli k
 
 *Użycie GParted, żeby stworzyć, skasować i zmodyfikować partycje*
 
-GParted jest programem graficznym używanym do modyfikacji partycji na dyskach. To potężne narzędzie i ma przyjazny interfejs. GParted pozwala na tworzenie, kasowanie jak i zmianę atrybutów partycji jak rozmiar, miejsce na dysku, system plików. Program potrafi też tworzyć tabele partycji różnego typu, między innymi najczęściej używane typu MBR (msdos) i GPT. Dla odświeżenia informacji o partycjach i tabelach partycji, sprawdź rozdział **Przydatne definicje**.
+GParted jest programem graficznym używanym do modyfikacji partycji na dyskach. To potężne narzędzie i ma przyjazny interfejs. GParted pozwala na tworzenie, kasowanie jak i zmianę atrybutów partycji jak rozmiar, miejsce na dysku, system plików. Program potrafi też tworzyć tabele partycji różnego typu, między innymi najczęściej używane typu MBR (msdos) i GPT. Dla odświeżenia informacji o partycjach i tablicach partycji, sprawdź rozdział **Przydatne definicje**.
 W tej sekcji zademonstrujemy jak zredukować rozmiar istniejącej partycji i użyć wolnego miejsca, żeby stworzyć dwie nowe partycje, które potem będą użyte do instalacji Manjaro!
 
 ![](../images/gparted1.png)

@@ -1,4 +1,4 @@
-## Przydatne definicje
+﻿## Przydatne definicje
 
 Jeśli się zastanawiasz *co te słowa znaczą, o co tu chodzi?*, ten rozdział jest dla ciebie. Instalacja nowego systemu operacyjnego może zmusić cię do zmierzenia się z pojęciami, o których wcześniej mogłeś nie słyszeć jak np. *partycjonowanie* czy *system plików*. To może być przytłaczające, jednak nie martw się, ten krótki rozdział jest właśnie po to, żeby z tym pomóc! Większość z tych terminów będzie tylko przydatna jeśli wybierzesz manualną instalację Manjaro. W trzech innych automatycznych instalacjach instalator zrobić całą pracę za ciebie.
 
@@ -14,7 +14,7 @@ Instalacja nowego systemu operacyjnego wymaga (od instalatora) wykonania zadań 
 
 **Tablica partycji**
 
- Tabela partycji jest listą wszystkich partycji istniejących na dysku. Dwa główne typy to Master Boot Record (MBR) i GUID Partition Table (GPT). Różne tablice partycji pozwalają na różne typy partycji, jak np. partycja podstawowa czy rozszerzona. Tablica MBR jest stosowana w starszych systemach BIOS i może zawierać ograniczoną liczbę partycji podstawowych, podczas gdy GPT jest używana na nowszych systemach UEFI i nie ma takich ograniczeń. Jednak nie zawsze tak jest.
+ Tablica partycji jest listą wszystkich partycji istniejących na dysku. Dwa główne typy to Master Boot Record (MBR) i GUID Partition Table (GPT). Różne tablice partycji pozwalają na różne typy partycji, jak np. partycja podstawowa czy rozszerzona. Tablica MBR jest stosowana w starszych systemach BIOS i może zawierać ograniczoną liczbę partycji podstawowych, podczas gdy GPT jest używana na nowszych systemach UEFI i nie ma takich ograniczeń. Jednak nie zawsze tak jest.
 
 **Katalog**
 
