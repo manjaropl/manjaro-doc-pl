@@ -14,7 +14,7 @@
     * [Manualna instalacja w systemach BIOS za pomocą instalatora Calamares](install/installBIOSmanual.md)
     * [Automatyczna instalacja w systemach UEFI za pomocą instalatora Calamares](install/installUEFIassisted.md)
     * [Manualna instalacja w systemach UEFI za pomocą instalatora Calamares](install/installUEFImanual.md)
-    * [Dual-boot z Microsoft Windows 10](install/dual-boot-Win10.md)
+    * [Dual-boot z Microsoft Windows 10](install/install-dual-boot-Win10.md)
 * [Witaj w Manjaro](desktop/README.md)
     * [Pulpit Manjaro](desktop/desktop.md)
     * [Menedżer Ustawień Manjaro](desktop/m-s-m.md)
